@@ -1,0 +1,1 @@
+A slightly better strategy could be do do a reverse mapping, i.e, start from 1 and go upwards until we find a location that maps to a seed. This should run in a couple of seconds if I got the numbers right.
